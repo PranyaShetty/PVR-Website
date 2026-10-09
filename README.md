@@ -1,18 +1,34 @@
-# Simple Registration and Login Form
+# PVR Website 🎬
 
-This repository contains a basic example of how to implement a registration and login form connected to a database. It serves as an introduction to form handling in a web application.
+## About the Project
+PVR Website is a collaborative web development project created by our team.
 
-### Important Notice
+The project demonstrates website development using PHP, HTML, CSS, JavaScript, and database connectivity.
 
-For production use or to ensure better security, it's highly recommended to incorporate proper security measures such as:
-- Using **prepared statements** to prevent SQL injection.
-- Considering a web framework like **Laravel** for more secure and scalable solutions.
+## Technologies Used
+- PHP
+- HTML
+- CSS
+- JavaScript
+- MySQL
 
-### Video Tutorial
+## Features
+- User Registration
+- User Login
+- Dashboard
+- Database Connectivity
+- Website Interface
 
-For more details on using prepared statements and input validation, you can check out my video tutorial here:
-[Watch the video](https://youtu.be/mQhu19VmOPo)
+## How to Run the Project
+1. Install XAMPP.
+2. Copy the project folder into the htdocs directory.
+3. Start Apache and MySQL.
+4. Configure the database using phpMyAdmin.
+5. Update the database connection settings in db.php.
+6. Open the website through your local server.
 
-You can watch the full tutorial on how to set up a login form with database connection on my YouTube channel:  
-[Francis Tech](https://www.youtube.com/@francis_tech)
+## Project Type
+Team Project
 
+## Contributors
+Pranya Shetty and Team
